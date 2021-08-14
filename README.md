@@ -1,4 +1,4 @@
-# CS3217 Final Project - Storyteller
+# CS3217 - Storyteller
 
 Final Project for [CS3217: Software Engineering for Modern Application Platforms](https://cs3217.github.io/cs3217-docs/)
 
